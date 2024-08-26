@@ -12,16 +12,16 @@
 - nutrition
 - mindfulness 
   
-
-### My LinkedIn:
+## Other profiles:
+### LinkedIn
 
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev,https://www.linkedin.com/in/frida-lemke-4b3147234/)
   
-### And Instagram (⚠️: sports):
+### Instagram (⚠️: sports)
 
 [![My Insta](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev,https://www.instagram.com/frida_unterwegs/)
 
-### What I'm dreaming of: More cycling adventures!
+### What I'm dreaming of when I'm not learning to code: More cycling adventures!
 
 ![cycling picture](IMG9033.jpg)
 
