@@ -5,7 +5,7 @@
 
 - 💬 Ask me about cycling adventures.
 
-![cycling picture] (IMG_9031.HEIC)
+![cycling picture](IMG9031.jpg)
 
 - 😄 Pronouns: she, her / no pronouns
   
