@@ -19,7 +19,7 @@
   
 - ### 💬 Ask me about cycling adventures
 
-![cycling picture](IMG9031.jpg)
+![cycling picture](IMG9033.jpg)
 
 
   
