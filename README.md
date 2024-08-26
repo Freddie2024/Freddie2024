@@ -6,7 +6,7 @@
 - This is my website as a translator: [www.stefanie-frida-lemke.de](https://stefanie-frida-lemke.de/)
   
 
-- ## Other profiles
+- ## My LinkedIn
 
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev,https://www.linkedin.com/in/frida-lemke-4b3147234/)
   
