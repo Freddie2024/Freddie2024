@@ -10,7 +10,8 @@
 - sports 🏊 🚲 🏃 
 - health
 - nutrition
-- mindfulness 
+- mindfulness
+- yoga
   
 ## Other profiles:
 ### LinkedIn
