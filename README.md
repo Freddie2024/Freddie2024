@@ -13,11 +13,15 @@
 - mindfulness 
   
 
-## My LinkedIn
+### My LinkedIn:
 
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev,https://www.linkedin.com/in/frida-lemke-4b3147234/)
   
-- ### 💬 Ask me about cycling adventures
+### And Instagram (⚠️: sports):
+
+[![My Insta](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev,https://www.instagram.com/frida_unterwegs/)
+
+### What I'm dreaming of: More cycling adventures!
 
 ![cycling picture](IMG9033.jpg)
 
