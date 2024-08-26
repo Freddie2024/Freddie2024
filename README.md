@@ -14,11 +14,11 @@
 - yoga
   
 ## Other profiles:
-### LinkedIn
+#### LinkedIn
 
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev,https://www.linkedin.com/in/frida-lemke-4b3147234/)
   
-### Instagram (⚠️: sports)
+#### Instagram (⚠️: sports)
 
 [![My Insta](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev,https://www.instagram.com/frida_unterwegs/)
 
