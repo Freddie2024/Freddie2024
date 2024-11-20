@@ -1,9 +1,9 @@
 # Hi, this is Frida 🏳️‍🌈
 
 
-- 🌱 I just completed a Web Development Bootcamp at Spiced Academy
+- 🌱 I've just completed a Web Development Bootcamp at Spiced Academy
   
-- 📚 Before I've worked 14 years as a literary translator, translating books from English to German
+- 📚 Before I worked 14 years as a literary translator, translating books from English to German
 - 💻 This is my website as a translator: [www.stefanie-frida-lemke.de](https://stefanie-frida-lemke.de/)
 
 ## Further interests:
