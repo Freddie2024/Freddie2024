@@ -14,7 +14,7 @@
 - yoga
 
 #### LinkedIn:
-[LinkedIn](www.linkedin.com/in/frida-lemke)
+[LinkedIn](https://www.linkedin.com/in/frida-lemke)
   
 #### Instagram (⚠️: sports):
 [Instagram](https://www.instagram.com/frida_unterwegs/)
