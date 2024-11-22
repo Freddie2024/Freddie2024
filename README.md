@@ -16,7 +16,7 @@
 ## Other profiles:
 #### LinkedIn
 
-[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev,https://www.linkedin.com/in/frida-lemke-4b3147234/)
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/frida-lemke)
   
 #### Instagram (⚠️: sports)
 
