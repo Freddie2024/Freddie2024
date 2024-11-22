@@ -22,9 +22,7 @@
 
 [![My Insta](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev,https://www.instagram.com/frida_unterwegs/)
 
-### What I'm dreaming of when I'm not learning to code: More cycling adventures!
 
-![cycling picture](IMG9033.jpg)
 
 
   
