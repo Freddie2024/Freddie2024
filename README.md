@@ -12,15 +12,12 @@
 - nutrition
 - mindfulness
 - yoga
-  
-## Other profiles:
-#### LinkedIn
 
-[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/frida-lemke)
+#### LinkedIn:
+[LinkedIn](www.linkedin.com/in/frida-lemke)
   
-#### Instagram (⚠️: sports)
-
-[![My Insta](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev,https://www.instagram.com/frida_unterwegs/)
+#### Instagram (⚠️: sports):
+[Instagram](https://www.instagram.com/frida_unterwegs/)
 
 
 
