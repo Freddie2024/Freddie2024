@@ -6,7 +6,7 @@
 #### LinkedIn:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/frida-lemke)
 
-### Languages and Technologies I used so far: 
+### Languages and Technologies I have used so far: 
 
 [![My Skills](https://skillicons.dev/icons?i=css,figma,git,github,html,js,mongodb,nextjs,npm,react,vite,vscode)]()
 
