@@ -8,7 +8,7 @@
 
 ### Languages and Technologies I have used so far: 
 
-[![My Skills](https://skillicons.dev/icons?i=css,figma,git,github,html,js,mongodb,nextjs,npm,react,typescript,vite,vscode)]()
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,figma,git,github,html,js,mongodb,nextjs,npm,react,typescript,vite,vscode)]()
 
   
 ### Before:
