@@ -1,6 +1,6 @@
 # Hi, this is Frida 🏳️‍🌈
 
-🌱 I'm a Junior Frontend Web Developer based in Berlin. After completing a 12-weeks intensive Web Dev Bootcamp at Spiced Academy I am open to work now! Please feel free to reach out to me!
+🌱 I'm a Junior Frontend Web Developer based in Berlin. After completing a 12-weeks intensive Web Dev Bootcamp in 2024, I will begin an apprenticeship as an IT Specialist for Application Development in September 2025.
 
 
 #### LinkedIn:
@@ -14,7 +14,6 @@
 ### Before:
 
 - 📚 Before I worked 14 years as a literary translator, translating books from English to German
-- 💻 This is my website as a translator: [www.stefanie-frida-lemke.de](https://stefanie-frida-lemke.de/)
 
 ### Further interests:
 - sports 🏊 🚲 🏃 
