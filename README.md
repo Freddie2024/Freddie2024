@@ -1,6 +1,6 @@
 # Hi, this is Frida 🏳️‍🌈
 
-🌱 I'm a Junior Frontend Web Developer based in Berlin. After completing a 12-weeks intensive Web Dev Bootcamp in 2024, I will begin an apprenticeship as an IT Specialist for Application Development in September 2025.
+🌱 I'm a Junior Frontend Web Developer based in Berlin. After completing a 12-weeks intensive Web Dev Bootcamp in 2024, I'm beginning an apprenticeship as an IT Specialist for Application Development in September 2025.
 
 
 #### LinkedIn:
