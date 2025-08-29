@@ -13,7 +13,7 @@
   
 ### Before:
 
-- 📚 I am a career changer. Before transitioning into tech, I worked for 15 years as a literary translator, translating books from English to German.
+📚 I am a career changer. Before transitioning into tech, I worked for 15 years as a literary translator, translating books from English to German.
 
 ### Further interests:
 - sports 🏊 🚲 🏃 
