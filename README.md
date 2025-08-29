@@ -3,7 +3,7 @@
 🌱 I'm a Junior Frontend Web Developer based in Berlin. After completing a 12-weeks intensive Web Dev Bootcamp in 2024, I'm beginning an apprenticeship as an IT Specialist for Application Development in September 2025.
 
 
-#### LinkedIn:
+### LinkedIn:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/frida-lemke)
 
 ### Languages and Technologies I have used so far: 
